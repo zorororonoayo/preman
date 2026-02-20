@@ -5,6 +5,3 @@ print("1st commit")
 print("2nd commit")
 
 print("hello dear jishnu")
-
-print("HELLO RO")
-
