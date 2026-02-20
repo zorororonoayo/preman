@@ -4,4 +4,4 @@ print("1st commit")
 
 print("2nd commit")
 
-print("our dear friend")
+print("our dear")
